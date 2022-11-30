@@ -1,1 +1,1 @@
-# CS50-Finance
+# Expense Tracker
